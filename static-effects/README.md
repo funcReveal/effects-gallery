@@ -29,7 +29,7 @@ These effects are ideal for decorative UI elements, backgrounds, and subtle visu
 /static-effects/
 ├── effect-name/
 │   ├── effectName.tsx
-│   ├── effectName.module.css)
+│   ├── effectName.module.css
 │   └── README.md
 │   
 └── README.md
